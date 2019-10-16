@@ -5,5 +5,5 @@ int baby(int a, int b){
 }
 
 void main(){
-  printf("Hello, World");
+  printf("Hello, World\n");
 }
